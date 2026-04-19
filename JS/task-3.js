@@ -1,4 +1,5 @@
 //Задача 3. Строитель струн
+
 class StringBuilder {
   #value;
 

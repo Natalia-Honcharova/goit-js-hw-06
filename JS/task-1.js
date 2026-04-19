@@ -1,4 +1,5 @@
 //Задача 1. Учетная запись пользователя
+
 const customer = {
   username: "Mango",
   balance: 24000,

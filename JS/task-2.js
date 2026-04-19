@@ -1,4 +1,5 @@
 //Задача 2. Состав
+
 class Storage {
   #items;
 
